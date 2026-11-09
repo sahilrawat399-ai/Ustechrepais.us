@@ -1,0 +1,6 @@
+{
+  "name": "US Repairs – Computer Repair & IT Support",
+  "description": "Professional computer repairs, remote technical support, cybersecurity, and business IT solutions across the United States.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
