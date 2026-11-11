@@ -61,9 +61,9 @@ export const StrategyBookingSection: React.FC = () => {
       };
 
       try {
-        const stored = JSON.parse(localStorage.getItem('ustechrepairs_calls') || '[]');
+        const stored = JSON.parse(localStorage.getItem('usrepairs_calls') || '[]');
         stored.push(receipt);
-        localStorage.setItem('ustechrepairs_calls', JSON.stringify(stored));
+        localStorage.setItem('usrepairs_calls', JSON.stringify(stored));
       } catch (err) {
         console.error('Failed to store call locally', err);
       }

@@ -110,9 +110,9 @@ export const MarketingAuditSection: React.FC<MarketingAuditSectionProps> = ({
       };
 
       try {
-        const stored = JSON.parse(localStorage.getItem('ustechrepairs_audits') || '[]');
+        const stored = JSON.parse(localStorage.getItem('usrepairs_audits') || '[]');
         stored.push(receipt);
-        localStorage.setItem('ustechrepairs_audits', JSON.stringify(stored));
+        localStorage.setItem('usrepairs_audits', JSON.stringify(stored));
       } catch (err) {
         console.error('Failed to store audit locally', err);
       }

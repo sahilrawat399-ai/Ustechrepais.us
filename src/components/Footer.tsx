@@ -34,16 +34,16 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenPolicy }) => {
               </div>
               <div className="flex flex-col">
                 <span className="text-xl font-bold tracking-tight text-white leading-none">
-                  US Tech Repairs
+                  usrepairs.us
                 </span>
                 <span className="text-[11px] font-medium text-[#A1AABD] tracking-wide mt-1">
-                  USTechRepairs.net · Digital Marketing Solutions
+                  usrepairs.us · Digital Marketing Solutions
                 </span>
               </div>
             </div>
 
             <p className="text-xs text-[#A1AABD] leading-relaxed max-w-sm">
-              US Tech Repairs provides remote digital marketing services designed to help businesses
+              usrepairs.us provides remote digital marketing services designed to help businesses
               improve their online visibility, customer acquisition, and marketing performance through
               structured, data-driven execution.
             </p>
@@ -122,7 +122,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenPolicy }) => {
                   onClick={() => onNavigate('why-us')}
                   className="hover:text-[#39D5FF] transition-colors cursor-pointer text-left"
                 >
-                  About US Tech Repairs
+                  About usrepairs.us
                 </button>
               </li>
               <li>
@@ -216,7 +216,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate, onOpenPolicy }) => {
         {/* Footer Bottom Strip */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#A1AABD]">
           <div>
-            © 2026 US Tech Repairs. All Rights Reserved. Domain: {BRAND.domain}
+            © 2026 usrepairs.us. All Rights Reserved. Domain: {BRAND.domain}
           </div>
 
           <div className="flex items-center gap-6">

@@ -91,7 +91,7 @@ export const ServicesSection: React.FC<ServicesSectionProps> = ({
             Remote Digital Marketing Services & Packages
           </h2>
           <p className="text-base sm:text-lg text-[#A1AABD] leading-relaxed">
-            US Tech Repairs provides 8 structured, remote digital marketing services with
+            usrepairs.us provides 8 structured, remote digital marketing services with
             transparent monthly deliverables, clear pricing, and no long-term contract lock-ins.
           </p>
         </motion.div>

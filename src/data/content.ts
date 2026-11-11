@@ -7,13 +7,13 @@ import {
 } from '../types';
 
 export const BRAND = {
-  name: 'US Tech Repairs',
-  domain: 'USTechRepairs.net',
-  url: 'https://ustechrepairs.net',
+  name: 'usrepairs.us',
+  domain: 'usrepairs.us',
+  url: 'https://usrepairs.us',
   tagline: 'Digital Marketing Solutions Built for Business Growth',
   subheadline:
-    'US Tech Repairs is a digital marketing services company providing remote marketing solutions to businesses. We formulate data-driven strategies designed to improve online visibility, customer acquisition, and marketing performance.',
-  email: 'support@ustechrepairs.net',
+    'usrepairs.us is a digital marketing services company providing remote marketing solutions to businesses. We formulate data-driven strategies designed to improve online visibility, customer acquisition, and marketing performance.',
+  email: 'support@usrepairs.us',
   phoneDisplay: '+1 442-313-1406',
   phoneTel: 'tel:+14423131406',
   hours: 'Monday–Friday, 9:00 AM–6:00 PM (ET)',
@@ -363,9 +363,9 @@ export const PRICING_PLANS: PricingPlan[] = [
 export const FAQS: FAQItem[] = [
   {
     id: 1,
-    question: 'What is US Tech Repairs and what services do you provide?',
+    question: 'What is usrepairs.us and what services do you provide?',
     answer:
-      'US Tech Repairs is a digital marketing services company providing remote marketing solutions to businesses. We provide comprehensive digital marketing services across 8 core disciplines: Search Engine Optimization (SEO), Social Media Marketing, Content Creation, Website Optimization, Digital Advertising Management, Email Marketing, Marketing Strategy & Consultation, and Analytics & Reporting.'
+      'usrepairs.us is a digital marketing services company providing remote marketing solutions to businesses. We provide comprehensive digital marketing services across 8 core disciplines: Search Engine Optimization (SEO), Social Media Marketing, Content Creation, Website Optimization, Digital Advertising Management, Email Marketing, Marketing Strategy & Consultation, and Analytics & Reporting.'
   },
   {
     id: 2,
@@ -389,7 +389,7 @@ export const FAQS: FAQItem[] = [
     id: 5,
     question: 'How do I contact customer support or request a consultation?',
     answer:
-      'Customers can contact our support team through support@ustechrepairs.net or +1 442-313-1406 during business hours (Monday–Friday, 9:00 AM–6:00 PM ET).'
+      'Customers can contact our support team through support@usrepairs.us or +1 442-313-1406 during business hours (Monday–Friday, 9:00 AM–6:00 PM ET).'
   }
 ];
 
@@ -400,7 +400,7 @@ export const POLICY_CONTENT = {
     sections: [
       {
         heading: '1. Information We Collect',
-        text: 'US Tech Repairs collects business and contact details provided voluntarily by visitors and clients, including business name, website URL, contact names, email addresses, phone numbers, and marketing campaign parameters. We collect this data solely to formulate strategies, provide service proposals, and deliver remote digital marketing services.'
+        text: 'usrepairs.us collects business and contact details provided voluntarily by visitors and clients, including business name, website URL, contact names, email addresses, phone numbers, and marketing campaign parameters. We collect this data solely to formulate strategies, provide service proposals, and deliver remote digital marketing services.'
       },
       {
         heading: '2. Client Data Confidentiality & Security',
@@ -412,7 +412,7 @@ export const POLICY_CONTENT = {
       },
       {
         heading: '4. Contact Information',
-        text: 'For questions regarding your privacy rights, please contact our privacy compliance officer at support@ustechrepairs.net or +1 442-313-1406.'
+        text: 'For questions regarding your privacy rights, please contact our privacy compliance officer at support@usrepairs.us or +1 442-313-1406.'
       }
     ]
   },
@@ -422,7 +422,7 @@ export const POLICY_CONTENT = {
     sections: [
       {
         heading: '1. Service Scope & Remote Delivery',
-        text: 'US Tech Repairs provides 100% remote digital marketing solutions. All deliverables, including SEO reports, creative assets, ad copy, and strategic consultation, are transmitted digitally via email, video calls, digital dashboards, or shared cloud folders. No physical goods are manufactured or shipped.'
+        text: 'usrepairs.us provides 100% remote digital marketing solutions. All deliverables, including SEO reports, creative assets, ad copy, and strategic consultation, are transmitted digitally via email, video calls, digital dashboards, or shared cloud folders. No physical goods are manufactured or shipped.'
       },
       {
         heading: '2. Advertising Platform Spend',
@@ -430,7 +430,7 @@ export const POLICY_CONTENT = {
       },
       {
         heading: '3. Retainer Terms & Cancellation',
-        text: 'All recurring retainers operate on a month-to-month basis with no long-term contract lock-in. Clients may cancel future billing cycles by providing written notice to support@ustechrepairs.net at least seven (7) days prior to the start of the next billing cycle.'
+        text: 'All recurring retainers operate on a month-to-month basis with no long-term contract lock-in. Clients may cancel future billing cycles by providing written notice to support@usrepairs.us at least seven (7) days prior to the start of the next billing cycle.'
       },
       {
         heading: '4. Disclaimer of Search Engine & Ad Guarantees',
@@ -448,7 +448,7 @@ export const POLICY_CONTENT = {
       },
       {
         heading: '2. Transparent 7-Day Cancellation',
-        text: 'To avoid being billed for a subsequent month, clients must submit a cancellation request via email to support@ustechrepairs.net at least seven (7) business days prior to the next scheduled renewal date. Upon timely cancellation, services and billing will terminate cleanly at the end of the active paid period.'
+        text: 'To avoid being billed for a subsequent month, clients must submit a cancellation request via email to support@usrepairs.us at least seven (7) business days prior to the next scheduled renewal date. Upon timely cancellation, services and billing will terminate cleanly at the end of the active paid period.'
       },
       {
         heading: '3. One-Time Projects & Consultation Sessions',
@@ -456,7 +456,7 @@ export const POLICY_CONTENT = {
       },
       {
         heading: '4. Dispute Resolution',
-        text: 'If you have concerns about the quality or scope of your deliverables, please contact your account lead or email support@ustechrepairs.net to initiate an immediate executive review.'
+        text: 'If you have concerns about the quality or scope of your deliverables, please contact your account lead or email support@usrepairs.us to initiate an immediate executive review.'
       }
     ]
   }
