@@ -86,7 +86,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
             <div className="flex flex-col">
               <span className="text-xl font-bold tracking-tight text-white leading-none">
-                usrepairs.us
+                usrepairs
               </span>
               <span className="text-[11px] font-medium text-[#A1AABD] tracking-wide mt-1">
                 Digital Marketing Solutions
@@ -146,7 +146,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <a
               href={BRAND.phoneTel}
               className="p-2 text-[#4F8CFF] hover:text-white rounded-lg border border-white/10 bg-white/5"
-              aria-label="Call usrepairs.us"
+              aria-label="Call usrepairs"
             >
               <Phone className="w-4 h-4" />
             </a>
