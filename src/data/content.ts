@@ -14,8 +14,8 @@ export const BRAND = {
   subheadline:
     'usrepairs.us is a digital marketing services company providing remote marketing solutions to businesses. We formulate data-driven strategies designed to improve online visibility, customer acquisition, and marketing performance.',
   email: 'support@usrepairs.us',
-  phoneDisplay: '+1 442-313-1406',
-  phoneTel: 'tel:+14423131406',
+  phoneDisplay: '+1 (870) 339-8202',
+  phoneTel: 'tel:+18703398202',
   hours: 'Monday–Friday, 9:00 AM–6:00 PM (ET)',
   model: '100% Remote Digital Marketing Services',
   coverageNote: 'Remote digital marketing services for businesses across the US and worldwide.'
@@ -389,7 +389,7 @@ export const FAQS: FAQItem[] = [
     id: 5,
     question: 'How do I contact customer support or request a consultation?',
     answer:
-      'Customers can contact our support team through support@usrepairs.us or +1 442-313-1406 during business hours (Monday–Friday, 9:00 AM–6:00 PM ET).'
+      'Customers can contact our support team through support@usrepairs.us or +1 (870) 339-8202 during business hours (Monday–Friday, 9:00 AM–6:00 PM ET).'
   }
 ];
 
@@ -412,7 +412,7 @@ export const POLICY_CONTENT = {
       },
       {
         heading: '4. Contact Information',
-        text: 'For questions regarding your privacy rights, please contact our privacy compliance officer at support@usrepairs.us or +1 442-313-1406.'
+        text: 'For questions regarding your privacy rights, please contact our privacy compliance officer at support@usrepairs.us or +1 (870) 339-8202.'
       }
     ]
   },
